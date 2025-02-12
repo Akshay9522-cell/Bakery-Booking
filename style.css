@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bakery{
+    background-color: #20303c;
+    height: 170vh;
+    z-index: 1;
+}
+
+.bakery nav{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   color: white;
+   padding: 15px;
+
+}
+
+.bakery nav ul{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    font-size: 25px;
+
+}
+.bakery nav ul li{
+    list-style: none;
+}
+
+.para{
+    position: absolute;
+    top: 11rem;
+    left: 8rem;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    flex-direction:column;
+    gap: 3rem;
+}
+.para {
+    font-family: "Manrope", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  #image{
+    position: absolute;
+    height: 384px;
+    top: 35rem;
+    left: 4rem;
+}
+#image1{
+    width: 70%;
+    height: 20%;
+    margin-right: 100px;
+
+
+}
+  
+ #table{
+    background-color: orange;
+    width: 100%;
+    gap: 10px;
+    
+ } 
+ #table th{
+      background-color: orangered;
+      border: 1px solid black;  
+ }
+ #table td{
+      position: relative;
+      border: 1px solid black;
+      left: 2px; 
+ }
+ .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 200px;
+    background: linear-gradient(#cd5a09,#402216)
+}
+
+.card h1,h2 {
+    margin: 0 0 10px;
+    color: rgb(222, 92, 11);
+}
+
+.card p {
+    margin: 0;
+    color: rgb(222, 92, 11);
+}
+a{
+    text-decoration: none;
+}
+h3{
+    color: black;
+}

@@ -1,0 +1,248 @@
+
+{
+      "products": [
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVsF-xRpepoGtqPRiCz7yUY0XUQ_JuIBS0Q&s",
+          "id": 1,
+          "name": "Chocolate Cake",
+          "description": "Rich and moist chocolate cake with creamy chocolate frosting.",
+          "price": 25.00,
+          "category": "cakes",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_OX_2GY8YENI2aE3c1y1GizQ_Sw4vXJpTg&s",
+          "id": 2,
+          "name": "Croissant",
+          "description": "Flaky and buttery croissant, perfect for breakfast.",
+          "price": 3.50,
+          "category": "pastries",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOBQ0oHvZHZK8aL9ci-7tcsy44RD60Q4Ykg&s",
+          "id": 3,
+          "name": "Blueberry Muffin",
+          "description": "Freshly baked blueberry muffin with a crumbly topping.",
+          "price": 2.50,
+          "category": "muffins",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymkmenR-MNxoh8SUegomksd--5Xx1kpl8Cw&s",
+          "id": 4,
+          "name": "Baguette",
+          "description": "Crispy French baguette, perfect for sandwiches.",
+          "price": 2.00,
+          "category": "breads",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmq2yhYCoTcCTR57puOIEhU-38OpLpDV5Zig&s",
+          "id": 5,
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with a graham cracker crust.",
+          "price": 30.00,
+          "category": "cakes",
+          "available": false
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKj493TuQtVkjB_8IPdjHQW_CqH21fd8ecg&s",
+          "id": 6,
+          "name": "Chocolate Cake",
+          "description": "Rich and moist chocolate cake with creamy chocolate frosting.",
+          "price": 25.00,
+          "category": "cakes",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtj1zcPoAe6iklDaWktlL2fdrHhDqU5JMZg&s",
+          "id": 7,
+          "name": "Croissant",
+          "description": "Flaky and buttery croissant, perfect for breakfast.",
+          "price": 3.50,
+          "category": "pastries",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VzeVGL9WPUOfWShv8i73VI73X9Vlrawdqg&s",
+          "id": 8,
+          "name": "Blueberry Muffin",
+          "description": "Freshly baked blueberry muffin with a crumbly topping.",
+          "price": 2.50,
+          "category": "muffins",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdAxZzLaYuD-g7dURTyU0xTLPPmpn3cq_EPQ&s",
+          "id": 9,
+          "name": "Baguette",
+          "description": "Crispy French baguette, perfect for sandwiches.",
+          "price": 2.00,
+          "category": "breads",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDOKz4zCT0gUEQiDE_si6Yafn1KbOv_7hQA&s",
+          "id": 10,
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with a graham cracker crust.",
+          "price": 30.00,
+          "category": "cakes",
+          "available": false
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77GrVvDzZ416UdtCHtoUVjqpmG3MGws9jPQ&s",
+          "id": 11,
+          "name": "Chocolate Cake",
+          "description": "Rich and moist chocolate cake with creamy chocolate frosting.",
+          "price": 25.00,
+          "category": "cakes",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDLq0hYp9omSI1Zn-VzlBfXDoBX07zfrLBQ&s",
+          "id": 12,
+          "name": "Croissant",
+          "description": "Flaky and buttery croissant, perfect for breakfast.",
+          "price": 3.50,
+          "category": "pastries",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQqj67rNtLTdZrSn2tWKmckAAcXGEMqzeAQ&s",
+          "id": 13,
+          "name": "Blueberry Muffin",
+          "description": "Freshly baked blueberry muffin with a crumbly topping.",
+          "price": 2.50,
+          "category": "muffins",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94ACOTqiGDfYo1-KTbIy-JYjdfpz8C6J3wg&s",
+          "id": 14,
+          "name": "Baguette",
+          "description": "Crispy French baguette, perfect for sandwiches.",
+          "price": 2.00,
+          "category": "breads",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H2ankcKO_GONXHGMMRkzDz0NOjLTEADXsQ&s",
+          "id": 15,
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with a graham cracker crust.",
+          "price": 30.00,
+          "category": "cakes",
+          "available": false
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOPLc8j9u-n39ex4qrBEMV8_ntshgPpbzcdg&s",
+          "id": 16,
+          "name": "Chocolate Cake",
+          "description": "Rich and moist chocolate cake with creamy chocolate frosting.",
+          "price": 25.00,
+          "category": "cakes",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vm4lxgnpzZ1JbYlvpytdmWVVvo1oI61cGg&s",
+          "id": 17,
+          "name": "Croissant",
+          "description": "Flaky and buttery croissant, perfect for breakfast.",
+          "price": 3.50,
+          "category": "pastries",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybAPBTCsJH-2VDB4lHwNPYUxHWlysKRiLWw&s",
+          "id": 18,
+          "name": "Blueberry Muffin",
+          "description": "Freshly baked blueberry muffin with a crumbly topping.",
+          "price": 2.50,
+          "category": "muffins",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaq-VPFbGrL0TBQQOE69qFI3SYCyGycPNwpg&s",
+          "id": 19,
+          "name": "Baguette",
+          "description": "Crispy French baguette, perfect for sandwiches.",
+          "price": 2.00,
+          "category": "breads",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36kK1So7H0XxsTFeYThNWe7a0CrsSa1UEOw&s",
+          "id": 20,
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with a graham cracker crust.",
+          "price": 30.00,
+          "category": "cakes",
+          "available": false
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsEoqWPZSKkB_QK1cwIB4-wVZRMXlZa5FoA&s",
+          "id": 21,
+          "name": "Croissant",
+          "description": "Flaky and buttery croissant, perfect for breakfast.",
+          "price": 3.50,
+          "category": "pastries",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquSCBmt-9qr8g5T0lFImWRFKEPHPnKwKfoA&s",
+          "id": 22,
+          "name": "Blueberry Muffin",
+          "description": "Freshly baked blueberry muffin with a crumbly topping.",
+          "price": 2.50,
+          "category": "muffins",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6BXqjVmUUQkvo2ktmU39DG8DC504g5Dm4Q&s",
+          "id": 23,
+          "name": "Baguette",
+          "description": "Crispy French baguette, perfect for sandwiches.",
+          "price": 2.00,
+          "category": "breads",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiNOw7bEb0-PCCoMkn2zRLaLBH4WXJlynCA&s",
+          "id": 24,
+          "name": "Chocolate Cake",
+          "description": "Rich and moist chocolate cake with creamy chocolate frosting.",
+          "price": 25.00,
+          "category": "cakes",
+          "available": true
+        },
+        {
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiNOw7bEb0-PCCoMkn2zRLaLBH4WXJlynCA&s",
+          "id": 25,
+          "name": "Croissant",
+          "description": "Flaky and buttery croissant, perfect for breakfast.",
+          "price": 3.50,
+          "category": "pastries",
+          "available": true
+        }
+      ],
+      "reviews": [
+        {
+          "customer_name": "Alice Johnson",
+          "rating": 5,
+          "comment": "The chocolate cake is to die for! Best bakery in town."
+        },
+        {
+          "customer_name": "Bob Smith",
+          "rating": 4,
+          "comment": "Great croissants, but the service could be better."
+        },
+        {
+          "customer_name": "Charlie Brown",
+          "rating": 5,
+          "comment": "Love the blueberry muffins! Always fresh and delicious."
+        }
+      ]
+    }
+  
