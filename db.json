@@ -227,6 +227,70 @@
           "available": true
         }
       ],
+      "appetizers": [
+        {
+          "id": 1,
+          "name": "Bruschetta",
+          "description": "Grilled bread topped with diced tomatoes, garlic, and basil.",
+          "price": 8.99,
+          "vegetarian": true
+        },
+        {
+          "id": 2,
+          "name": "Stuffed Mushrooms",
+          "description": "Mushrooms stuffed with cream cheese, herbs, and breadcrumbs.",
+          "price": 10.99,
+          "vegetarian": true
+        }
+      ],
+      "main_courses": [
+        {
+          "id": 3,
+          "name": "Grilled Salmon",
+          "description": "Fresh salmon fillet grilled to perfection, served with asparagus.",
+          "price": 22.99,
+          "gluten_free": true
+        },
+        {
+          "id": 4,
+          "name": "Chicken Alfredo",
+          "description": "Fettuccine pasta tossed in a creamy Alfredo sauce with grilled chicken.",
+          "price": 18.99,
+          "vegetarian": false
+        }
+      ],
+      "desserts": [
+        {
+          "id": 5,
+          "name": "Tiramisu",
+          "description": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+          "price": 7.99,
+          "vegetarian": true
+        },
+        {
+          "id": 6,
+          "name": "Chocolate Lava Cake",
+          "description": "Rich chocolate cake with a gooey molten center, served with vanilla ice cream.",
+          "price": 9.99,
+          "vegetarian": true
+        }
+      ],
+      "beverages": [
+        {
+          "id": 7,
+          "name": "House Red Wine",
+          "description": "A smooth and fruity red wine from our selection.",
+          "price": 12.00,
+          "alcoholic": true
+        },
+        {
+          "id": 8,
+          "name": "Sparkling Water",
+          "description": "Refreshing sparkling water served chilled.",
+          "price": 3.50,
+          "alcoholic": false
+        }
+      ],
       "reviews": [
         {
           "customer_name": "Alice Johnson",

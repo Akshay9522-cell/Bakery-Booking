@@ -9,7 +9,7 @@ const cardContainer = document.getElementById('card-container');
 
  async function myData(){
 
-    let api="http://localhost:2000/products"
+    let api="http://localhost:3000/products"
 
     let res=await fetch(api)
 

@@ -62,19 +62,20 @@
 }
   
  #table{
-    background-color: orange;
+    background-color: rgb(85, 232, 230);
     width: 100%;
     gap: 10px;
     
  } 
  #table th{
-      background-color: orangered;
+      background-color:  rgb(14, 180, 178);
       border: 1px solid black;  
  }
  #table td{
       position: relative;
       border: 1px solid black;
       left: 2px; 
+      color: rgb(5, 83, 57);
  }
  .card-container {
     display: flex;
@@ -98,11 +99,48 @@
 
 .card p {
     margin: 0;
-    color: rgb(222, 92, 11);
+    color: rgb(121, 83, 3);
 }
 a{
     text-decoration: none;
 }
 h3{
     color: black;
+}
+
+.login{
+    width: 100%;
+    max-width: 500px;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: relative;
+    transform: translate(-50px,150px);
+    
+}
+.Login{
+    display: flex;
+ background: linear-gradient(#70401d,#69250b); 
+}
+.Login img{
+    width: 100%;
+    height: 98vh;
+}
+
+.appe{
+    
+   /* //  background:linear-gradient(#389f87,#0e988a); */
+}
+.appe h1{
+     /* background:linear-gradient(#d2722d,#b13b0c); */
+     color: rgb(110, 199, 232);
+     width: 100%;
+    
+}
+.main h1{
+    color: rgb(110, 199, 232);
+    width: 100%;
 }
