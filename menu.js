@@ -7,7 +7,7 @@ const appebtn=document.getElementById('appebtn')
 appebtn.addEventListener('click',myAppe)
 
 async function myAppe(){
-    alert('hii akki')
+
 
     let api='http://localhost:3000/appetizers'
 
@@ -80,6 +80,7 @@ table+= `<tr>
 })
 table+="</table>"
 course.innerHTML=table
+btn.style.display="none"
 
 }
 
@@ -93,7 +94,6 @@ const btndsrt=document.getElementById('dsrtbtn')
 btndsrt.addEventListener('click',myDesserts)
 
 async function myDesserts(){
-    alert('hii akki')
 
     let api='http://localhost:3000/desserts'
 
@@ -123,5 +123,6 @@ table+= `<tr>
 })
 table+="</table>"
 dsrt.innerHTML=table
+btndsrt.style.display="none"
 
 }
